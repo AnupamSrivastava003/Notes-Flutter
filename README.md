@@ -19,7 +19,8 @@ Please star⭐ the repo if you like what you see😉.
 
 ## 📸 ScreenShots
 
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-01-10 at 21 36 01](https://github.com/AnupamSrivastava003/Notes-Flutter/assets/125076213/7d588835-bb2f-42ff-ac93-caa17ed07512 | width = 100)
+<img src="[https://camo.githubusercontent.com/...](https://github.com/AnupamSrivastava003/Notes-Flutter/assets/125076213/7d588835-bb2f-42ff-ac93-caa17ed07512)" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-01-10 at 21 35 39](https://github.com/AnupamSrivastava003/Notes-Flutter/assets/125076213/e7991609-ed55-4d01-852b-e5244a94d8cc)
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-01-10 at 21 35 35](https://github.com/AnupamSrivastava003/Notes-Flutter/assets/125076213/5110728e-fa09-4368-8356-28c0c087d38b) 
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-01-10 at 21 35 29](https://github.com/AnupamSrivastava003/Notes-Flutter/assets/125076213/e09be8b2-ae20-48d8-9828-7444d4143a57) 
